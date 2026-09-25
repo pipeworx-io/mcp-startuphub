@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/startuphub",
   "title": "Startuphub",
   "description": "StartupHub MCP — wraps the StartupHub.ai private-market API (startuphub.ai)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/startuphub",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-startuphub",
