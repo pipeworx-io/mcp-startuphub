@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-startuphub",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "StartupHub MCP — wraps the StartupHub.ai private-market API (startuphub.ai)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "startuphub",
     "gatewaySlug": "startuphub",
-    "sourceHash": "v1-b437df5d5511a5503778c7d65cb68e577f2265c8f625681cbd9054e43a415faf",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-203c0acb9d9a7112bb0a471ed56c123594963d9d2f5f76da2234a2fdc15f5765",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
